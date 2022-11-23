@@ -1,0 +1,30 @@
+C:\Users\school profile\source\repos\beginaquestAssignment\obj\Debug\net6.0\beginaquestAssignment.csproj.AssemblyReference.cache
+C:\Users\school profile\source\repos\beginaquestAssignment\obj\Debug\net6.0\beginaquestAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\school profile\source\repos\beginaquestAssignment\obj\Debug\net6.0\beginaquestAssignment.AssemblyInfoInputs.cache
+C:\Users\school profile\source\repos\beginaquestAssignment\obj\Debug\net6.0\beginaquestAssignment.AssemblyInfo.cs
+C:\Users\school profile\source\repos\beginaquestAssignment\obj\Debug\net6.0\beginaquestAssignment.csproj.CoreCompileInputs.cache
+C:\Users\school profile\source\repos\beginaquestAssignment\bin\Debug\net6.0\beginaquestAssignment.exe
+C:\Users\school profile\source\repos\beginaquestAssignment\bin\Debug\net6.0\beginaquestAssignment.deps.json
+C:\Users\school profile\source\repos\beginaquestAssignment\bin\Debug\net6.0\beginaquestAssignment.runtimeconfig.json
+C:\Users\school profile\source\repos\beginaquestAssignment\bin\Debug\net6.0\beginaquestAssignment.dll
+C:\Users\school profile\source\repos\beginaquestAssignment\bin\Debug\net6.0\beginaquestAssignment.pdb
+C:\Users\school profile\source\repos\beginaquestAssignment\obj\Debug\net6.0\beginaquestAssignment.dll
+C:\Users\school profile\source\repos\beginaquestAssignment\obj\Debug\net6.0\refint\beginaquestAssignment.dll
+C:\Users\school profile\source\repos\beginaquestAssignment\obj\Debug\net6.0\beginaquestAssignment.pdb
+C:\Users\school profile\source\repos\beginaquestAssignment\obj\Debug\net6.0\beginaquestAssignment.genruntimeconfig.cache
+C:\Users\school profile\source\repos\beginaquestAssignment\obj\Debug\net6.0\ref\beginaquestAssignment.dll
+C:\Users\ch0833734\OneDrive - Ozarks Technical Community College\Introtoprogramming\beginaquestAssignment\bin\Debug\net6.0\beginaquestAssignment.exe
+C:\Users\ch0833734\OneDrive - Ozarks Technical Community College\Introtoprogramming\beginaquestAssignment\bin\Debug\net6.0\beginaquestAssignment.deps.json
+C:\Users\ch0833734\OneDrive - Ozarks Technical Community College\Introtoprogramming\beginaquestAssignment\bin\Debug\net6.0\beginaquestAssignment.runtimeconfig.json
+C:\Users\ch0833734\OneDrive - Ozarks Technical Community College\Introtoprogramming\beginaquestAssignment\bin\Debug\net6.0\beginaquestAssignment.dll
+C:\Users\ch0833734\OneDrive - Ozarks Technical Community College\Introtoprogramming\beginaquestAssignment\bin\Debug\net6.0\beginaquestAssignment.pdb
+C:\Users\ch0833734\OneDrive - Ozarks Technical Community College\Introtoprogramming\beginaquestAssignment\obj\Debug\net6.0\beginaquestAssignment.csproj.AssemblyReference.cache
+C:\Users\ch0833734\OneDrive - Ozarks Technical Community College\Introtoprogramming\beginaquestAssignment\obj\Debug\net6.0\beginaquestAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ch0833734\OneDrive - Ozarks Technical Community College\Introtoprogramming\beginaquestAssignment\obj\Debug\net6.0\beginaquestAssignment.AssemblyInfoInputs.cache
+C:\Users\ch0833734\OneDrive - Ozarks Technical Community College\Introtoprogramming\beginaquestAssignment\obj\Debug\net6.0\beginaquestAssignment.AssemblyInfo.cs
+C:\Users\ch0833734\OneDrive - Ozarks Technical Community College\Introtoprogramming\beginaquestAssignment\obj\Debug\net6.0\beginaquestAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ch0833734\OneDrive - Ozarks Technical Community College\Introtoprogramming\beginaquestAssignment\obj\Debug\net6.0\beginaquestAssignment.dll
+C:\Users\ch0833734\OneDrive - Ozarks Technical Community College\Introtoprogramming\beginaquestAssignment\obj\Debug\net6.0\refint\beginaquestAssignment.dll
+C:\Users\ch0833734\OneDrive - Ozarks Technical Community College\Introtoprogramming\beginaquestAssignment\obj\Debug\net6.0\beginaquestAssignment.pdb
+C:\Users\ch0833734\OneDrive - Ozarks Technical Community College\Introtoprogramming\beginaquestAssignment\obj\Debug\net6.0\beginaquestAssignment.genruntimeconfig.cache
+C:\Users\ch0833734\OneDrive - Ozarks Technical Community College\Introtoprogramming\beginaquestAssignment\obj\Debug\net6.0\ref\beginaquestAssignment.dll
